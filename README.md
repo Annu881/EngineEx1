@@ -39,3 +39,5 @@ Design: Responsive and minimalistic UI
 
 💡 Vision
 We aim to make engine diagnostics accessible, accurate, and easy for everyone — from car owners to garage technicians — using automation and intelligent algorithms.
+
+Diploy link: https://heavy-vehicles.vercel.app/
